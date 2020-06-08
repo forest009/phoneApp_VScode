@@ -1,0 +1,16 @@
+mat-form-field {
+    width: 400px;
+    text-align: center;
+}
+.submit-button {
+    width: 150px;
+}
+
+table {
+    width: 100%;
+}
+
+tr {
+   width: 25%;
+   display: inline-block; 
+}
